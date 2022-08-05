@@ -1,0 +1,175 @@
+{
+    "Version": "1.00",
+    "Sections": [
+	{
+            "Name": "EquipDelaySettings",
+            "Description": "Related To Individual Weapon Type Equip Delay Settings, Check The 'Presets' Button For A List Of Convenient Settings Presets: '100 * Value' Is In Approximate Milliseconds Of Delay",
+            "IsAdvanced": false,
+            "Keys": [
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Dagger",
+                    "Description": "Changes Equip Delay For Daggers",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Tanto",
+                    "Description": "Changes Equip Delay For Tantos",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Staff",
+                    "Description": "Changes Equip Delay For Staves",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Shortsword",
+                    "Description": "Changes Equip Delay For Shortswords",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Wakazashi",
+                    "Description": "Changes Equip Delay For Wakazashis",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Broadsword",
+                    "Description": "Changes Equip Delay For Broadswords",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Saber",
+                    "Description": "Changes Equip Delay For Sabers",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Longsword",
+                    "Description": "Changes Equip Delay For Longswords",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Katana",
+                    "Description": "Changes Equip Delay For Katanas",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Claymore",
+                    "Description": "Changes Equip Delay For Claymores",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "DaiKatana",
+                    "Description": "Changes Equip Delay For Dai-Katanas",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Mace",
+                    "Description": "Changes Equip Delay For Maces",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Flail",
+                    "Description": "Changes Equip Delay For Flails",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "Warhammer",
+                    "Description": "Changes Equip Delay For Warhammers",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "BattleAxe",
+                    "Description": "Changes Equip Delay For Battle-Axes",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "WarAxe",
+                    "Description": "Changes Equip Delay For War-Axes",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "ShortBow",
+                    "Description": "Changes Equip Delay For Short-Bows",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                },
+				{
+                    "Min": 0,
+                    "Max": 100,
+                    "Value": 0,
+                    "Name": "LongBow",
+                    "Description": "Changes Equip Delay For Long-Bows",
+                    "$version": "v1",
+                    "$type": "DaggerfallWorkshop.Game.Utility.ModSupport.ModSettings.SliderIntKey"
+                }
+            ],
+            "$version": "v1"
+        }
+    ]
+}

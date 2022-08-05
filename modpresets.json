@@ -1,0 +1,89 @@
+[
+    {
+        "Title": "Default",
+        "Author": "Kirk Oliveri",
+        "Description": "Default Settings",
+        "SettingsVersion": "1.00",
+        "Values": {
+            "EquipDelaySettings": {
+                "Dagger": "0",
+				"Tanto": "0",
+				"Staff": "0",
+				"Shortsword": "0",
+				"Wakazashi": "0",
+				"Broadsword": "0",
+				"Saber": "0",
+				"Longsword": "0",
+				"Katana": "0",
+				"Claymore": "0",
+				"DaiKatana": "0",
+				"Mace": "0",
+				"Flail": "0",
+				"Warhammer": "0",
+				"BattleAxe": "0",
+				"WarAxe": "0",
+				"ShortBow": "0",
+				"LongBow": "0"
+            }
+        },
+        "$version": "v1"
+    },
+	{
+        "Title": "Vanilla",
+        "Author": "Kirk Oliveri",
+        "Description": "Vanilla Settings",
+        "SettingsVersion": "1.00",
+        "Values": {
+            "EquipDelaySettings": {
+                "Dagger": "5",
+				"Tanto": "7",
+				"Staff": "12",
+				"Shortsword": "9",
+				"Wakazashi": "9",
+				"Broadsword": "18",
+				"Saber": "16",
+				"Longsword": "17",
+				"Katana": "17",
+				"Claymore": "30",
+				"DaiKatana": "34",
+				"Mace": "20",
+				"Flail": "22",
+				"Warhammer": "20",
+				"BattleAxe": "22",
+				"WarAxe": "20",
+				"ShortBow": "40",
+				"LongBow": "50"
+            }
+        },
+        "$version": "v1"
+    },
+	{
+        "Title": "Balance Attempt",
+        "Author": "Kirk Oliveri",
+        "Description": "Mod Author's Attempt At More Balanced Equip Delay Values",
+        "SettingsVersion": "1.00",
+        "Values": {
+            "EquipDelaySettings": {
+                "Dagger": "2",
+				"Tanto": "4",
+				"Staff": "9",
+				"Shortsword": "7",
+				"Wakazashi": "7",
+				"Broadsword": "14",
+				"Saber": "11",
+				"Longsword": "12",
+				"Katana": "12",
+				"Claymore": "23",
+				"DaiKatana": "28",
+				"Mace": "16",
+				"Flail": "26",
+				"Warhammer": "25",
+				"BattleAxe": "19",
+				"WarAxe": "24",
+				"ShortBow": "15",
+				"LongBow": "30"
+            }
+        },
+        "$version": "v1"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "ModTitle": "InstantWeaponSwapping",
+    "ModVersion": "1.00",
+    "ModAuthor": "Kirk.O",
+    "ContactInfo": "kirkoliveri@gmail.com",
+    "DFUnity_Version": "0.13.5",
+    "ModDescription": "Removes The Delay When Changing Weapons Or Swapping Hands When Dual Wielding Options Included.",
+    "GUID": "ede89f3f-4ed1-46e8-8290-ef2f737542dd",
+    "Files": [
+        "Assets/Game/Mods/DFU-Mod_Instant-Weapon-Swapping/Scripts/InstantWeaponSwappingMain.cs",
+        "Assets/Game/Mods/DFU-Mod_Instant-Weapon-Swapping/modsettings.json",
+        "Assets/Game/Mods/DFU-Mod_Instant-Weapon-Swapping/modpresets.json"
+    ]
+}
